@@ -1,0 +1,7 @@
+---
+language: custom
+name: custom-gke-auth-buildpack
+version: 1.0.0
+dependencies:
+  - name: gke-gcloud-auth-plugin
+    version: latest
